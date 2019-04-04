@@ -1,0 +1,137 @@
+.Header{
+    border-top-style:solid;
+    border-bottom: solid;
+    border-width: 6px 0px 1px 0px;
+height: 80px;
+
+}
+
+
+.left-head{
+float: left;
+margin-left:300px;
+margin-right:200px;
+
+}
+p{
+    margin-top: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    float: left;
+}
+ul{
+    list-style-type: none;
+    margin-top: 10px;
+    padding: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;  
+}
+
+li {
+    float: left;
+}
+
+li a{
+    color:#8f8f8f;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+   
+}
+
+li a:hover{
+    color: blue;
+    background-color: grey;
+    
+}
+.center{
+
+    background-image:url(cadan.jpg);
+    height: 290px;
+    padding: 10px 5px 3px 1px;
+    background-color: #8f8f8f;
+}
+.bax{
+    margin: 20px 20px 20px 250px;
+}
+
+body{
+    background-color: white;
+}
+H1{
+    background-color:#a852a5;
+  width: 51%;
+  font-size: 20px;
+   color: #ffffff;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   padding: 7px 7px 7px 7px;
+}
+.child{
+    float: left;
+   margin: 20px 20px 20px 300px;
+}
+img{
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+}
+    
+.man{
+    border-radius: 200px;
+    top: 50px;
+}
+.text{
+    margin-top: 0%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:#141402;
+}
+.Name{
+    font-size: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: lighter;
+    color:#ffffff;
+}
+.NAN{
+    width: 150px;
+    height: 150px;
+    margin: 20px 20px 20px 30px;
+   
+}
+.NON{
+    margin: 20px 0px 20px 100PX;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50PX;
+    color:#8f8f8f;
+}
+footer{
+    height: 160PX;
+    background-color: #202020;
+    color: #767979;
+    
+}
+
+.COPY{
+    margin: 60PX 200PX 80PX 300PX;
+   
+}
+.COPY2{
+    margin-top: 60PX;
+   
+}
+.space{
+    margin-bottom: 0px; 
+}
+h4{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.nam{
+    color: #a852a5;
+    background-color: #ffffff;
+    font-size: 12px;
+}
+
+
+
+
+
+
+
